@@ -9,29 +9,33 @@ SIDEBAR/ESSENTIAL CATEGORIES
 Club News/Blog
 
 Side info: 
-Calendar:
-	Upcoming effects
+
+#Unsure whether we need, or should seek, compatability with online calendars
+#given the number of people likely to want it.
+Calendar:	
+	Upcoming events
 	Past Events
 	RSS
 	iCal
 
 Documents:
-	FAQ
-	Flyers
+	FAQ # How about just "Support Documents"?
+	Flyers	# We could incorporate these as "Publicity Materials"?
 	Handouts
 	Forms
-	HOWTOs
+	HOWTOs	# How about just "Support Documents"?
 
-	History
-	Media
-	Letters
-	Fun stuff
+# This next section lookes like fluff to me.
+	History	#On old site
+	Media	#WHat sort of thing belongs here?
+	Letters #These are archived on the old site
+	Fun stuff #None posted in years
 
 Club Administration:
 	Officers
-	Members
+	Members #Any problem with just having this on the archived site?
 	Objectives/Bylaws
-	Financial
+	Financial	# I seee this as a regular, tagged blog
 
 Interact:
 	Chat (IRC)
